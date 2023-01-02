@@ -10,6 +10,10 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
+https://photos.google.com/u/1/photo/AF1QipNWdfSmu1SqnhVrJamkldwj_JjwgqnIge60cuVE
+https://photos.google.com/u/1/photo/AF1QipPimqdc-EjVyr06qR_1sbdo3K1Tfse03Yo8fRrw
+https://photos.google.com/u/1/photo/AF1QipPd4JvswhfXWamQFCO7HXlEZbLpFxVMBwcQBXXc
+
 
 ### Project Tracker
 
