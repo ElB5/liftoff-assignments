@@ -26,4 +26,4 @@ https://trello.com/b/uXgbgOqT/liftoff-project-2022-2023
 
 Include a link to your project on GitHub.  
 
-https://github.com/NameInputError/Liftoff_Ted_Group/commit/7f229005cb1e3436dcf6f10e36c6c0a9a37fb0f6
+[Group Project] (https://github.com/NameInputError/Liftoff_Ted_Group/commit/7f229005cb1e3436dcf6f10e36c6c0a9a37fb0f6)
