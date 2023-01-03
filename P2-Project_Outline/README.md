@@ -43,4 +43,4 @@ GitHub - merging/branching
 CSS
 
 ### Project Tracker
-https://trello.com/b/uXgbgOqT/liftoff-project-2022-2023
+[Trello Board] (https://trello.com/b/uXgbgOqT/liftoff-project-2022-2023)
