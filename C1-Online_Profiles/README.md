@@ -10,11 +10,11 @@ For this assignment you will need to upload your resume and provide links to you
 [GitHub](https://github.com/ElB5)
  
 ### LinkedIn
-[LinkedIn](https://www.linkedin.com/in/bradyellen/) 
+Ted, please see Slack email with LinkedIn profile link. 
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-I will email a copy of my resume to TA Tom Ryan for review. 
-I do not want to upload resume or photo to GitHub, or add my full name or email address in GitHub.
+Ted, please see Slack email with link to my google docs resume.
+I do not want to upload resume or photo to GitHub, or add my full name or email address in GitHub as of now.
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment. 
