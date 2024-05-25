@@ -9,5 +9,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ### Presentation
 Upload a .PDF of your presentation here for review.
 
-file:///C:/Users/belle/OneDrive/Ellen%20Brady%20Project%20Presentation.pdf
-https://docs.google.com/presentation/d/1s4H9S9vi6ji9LmSzqymd9rQXt8Dxfk6uAjKBMhD7taU/edit?usp=sharing
+(removed file and link to google presentation)
